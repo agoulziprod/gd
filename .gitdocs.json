@@ -2,8 +2,7 @@
   "name": "Da Explorer",
   "root": "docs/",
   "static": ".static",
-  "logo":"logo.svg",
-  "syntax":{
-    "theme": "atom-one-dark"
-  }
+  "logo":"logo.svg"
+  
+  
 }
